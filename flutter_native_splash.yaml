@@ -1,0 +1,14 @@
+flutter_native_splash:
+  color: "#FFFFFF"
+  color_dark: "#121212"
+  image: assets/images/splash.png
+  android_12:
+    image: assets/images/splash.png
+    icon_background_color: "#ffffff"
+  size: 300
+  image_width: 400
+  image_height: 400
+  branding: "Wallpaper App"
+  android: true
+  ios: true
+  web: false
