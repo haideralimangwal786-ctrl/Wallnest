@@ -26,18 +26,9 @@ WallNest ek modern Flutter-based wallpaper application hai jo Pexels API se high
 
 ---
 
-# 📁 Project Structure
 
-lib/
--├── api/
--├── models/
--├── providers/
--├── screens/
--├── theme/
--├── utils/
--└── main.dart
 
----
+
 
 # 💻 How to Run This Project
 
